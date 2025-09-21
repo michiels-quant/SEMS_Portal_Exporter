@@ -1,0 +1,102 @@
+200
+{
+  "language": "en",
+  "function": null,
+  "hasError": false,
+  "msg": "操作成功",
+  "code": "0",
+  "data": {
+    "generateData": [
+      {
+        "key": "Generation",
+        "value": 6.7,
+        "unit_Key": "kWh"
+      },
+      {
+        "key": "Income",
+        "value": 1.68,
+        "unit_Key": "EUR"
+      }
+    ],
+    "lines": [
+      {
+        "key": "PCurve_Power_PV",
+        "unit": "W",
+        "frontColor": "#03bbd6",
+        "isActive": true,
+        "axis": 0,
+        "sort": 1,
+        "type": "2",
+        "xy": [
+          {
+            "x": "00:00",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:05",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:10",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:15",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:20",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:25",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:30",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:35",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:40",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:45",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:50",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "00:55",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "01:00",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "01:05",
+            "y": 0.0,
+            "z": null
+          },
+          {
+            "x": "01:10",
